@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Welcome to the learning club!!!</h1>
-    <p>Please fill in this form to create an account.</p>
+    <p>Please spend some time and fill out this form.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
